@@ -1,0 +1,12 @@
+bird's eye: 
+pos: 318, 0 - 1800
+down/up/normal/dead: the same of 318(x)
+color: RGB(246, 251, 247), "#f6fbf7"
+
+
+device: 1080 * 2340
+
+pillar: 
+pos: 983,1083,1533: 100, 450
+pos: 880, 1330
+color: RGB(81, 57, 73), "#513949"
